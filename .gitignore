@@ -1,5 +1,6 @@
 output/
 rebuild/
 Script.pvf
-/output_classified/
+docs/encyclopedia/
+
 .DS_Store
