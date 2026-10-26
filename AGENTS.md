@@ -81,3 +81,10 @@ Every playbook ends with a reply written this way, PR link as https://github.com
 ## Test
 
 - During testing, extract files to `output` and write rebuilt PVF archives to `rebuild`.
+
+## Pull requests
+
+- Never make a PR unless the developer explicitly asks you to do so.
+- Conventional commit titles, plain language: fix(web): new threads no longer spike CPU.
+- Body: the problem in a sentence or two, then how you fixed it. End with the model and harness that did the work.
+- UI changes need before/after images.
